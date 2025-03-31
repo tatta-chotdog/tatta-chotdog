@@ -27,15 +27,21 @@ Click on the GIFs to check out the project repositories.
 
 <br>
 
-## 📚 Phrase Management App: [PhraseUp](https://phrase-up-tatta-chotdogs-projects.vercel.app/)
+## 📚 [PhraseUp](https://phrase-up-tatta-chotdogs-projects.vercel.app/)
 As part of my English learning journey, I developed a **Phrase Management App** using Next.js and Supabase.<br>
 Since I can test randomly from the selected phrases, I am able to study effectively myself.
 
+<a href="https://phrase-up-tatta-chotdogs-projects.vercel.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/cc1ccef5-155c-43d9-befa-2b610b22c1e1" />
+</a>
+
 <br>
 
-## 💰 Couples' Expense Sharing App: [seppan](https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan)
+## 💰 [seppan](https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan)
 I developed a mobile app using React Native and Expo to manage the sharing of living expenses and various other costs between partners.<br>
 Since it uses SQLite, it can be used without an internet connection.
+
+Read the article [here](https://qiita.com/tatta_chotdog/items/0fb70e29027fdf64fd66)
 
 <br>
 
