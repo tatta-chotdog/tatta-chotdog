@@ -1,37 +1,48 @@
-# Hi there! 👋
-I'm a frontend engineer.<br>
-I've always jumped into things that exhilarate me.<br>
-Here’s about what I’m working on:
+<h1 align="center">Hi there! I'm Tatsutaka Kojiro. 👋</h1>
+<p align="center">Please call me Tatta!</p>
 
-## 🚀 WebXR Projects
-I’ve been exploring WebXR through personal projects and have published the following repositories:
-### ・[webxr-cube-starter](https://github.com/tatta-chotdog/webxr-cube-starter) ###
-Allows users to scale, grab, and rotate a cube in XR.
+<h3 align="center">
+  I'm a frontend engineer.<br>
+  I've always jumped into things that exhilarate me.<br>
+  Here’s a bit about the personal projects I’m working on!
+</h3>
 
-![cube](https://github.com/user-attachments/assets/98d697ea-960f-4013-a982-7eae7392de97)
+<br>
 
-### ・[webxr-hands-starter](https://github.com/tatta-chotdog/webxr-hands-starter) ###
-Utilizes WebXR hand tracking capabilities.
+## 🥽 WebXR Projects
+WebXR is the most exciting technologies I'm currently exploring.
+Click on the GIFs to check out the project repositories.
 
-![hands](https://github.com/user-attachments/assets/e7d001a3-7cab-47cf-b380-64815f1c7ba5)
+<p align="center">
+  <a href="https://github.com/tatta-chotdog/webxr-cube-starter" target="_blank">
+    <img src="https://github.com/user-attachments/assets/98d697ea-960f-4013-a982-7eae7392de97" width="30%" />
+  </a>
+  <a href="https://github.com/tatta-chotdog/webxr-hands-starter" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e7d001a3-7cab-47cf-b380-64815f1c7ba5" width="30%" />
+  </a>
+  <a href="https://github.com/tatta-chotdog/webxr-squat" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2cfe71d4-9067-4f2b-85e8-743e0c00d03f" width="30%" />
+  </a>
+</p>
 
-### ・[webxr-squat](https://github.com/tatta-chotdog/webxr-squat) ###
-Features an original 3D model to assist with squat exercises.
+<br>
 
-![squat](https://github.com/user-attachments/assets/2cfe71d4-9067-4f2b-85e8-743e0c00d03f)
-
-
-## 📚 Phrase Management App: 🔗 [PhraseUp](https://phrase-up-tatta-chotdogs-projects.vercel.app/)
+## 📚 Phrase Management App: [PhraseUp](https://phrase-up-tatta-chotdogs-projects.vercel.app/)
 As part of my English learning journey, I developed a **Phrase Management App** using Next.js and Supabase.<br>
-This app helps users store and manage useful phrases efficiently.
+Since I can test randomly from the selected phrases, I am able to study effectively myself.
 
+<br>
 
-## 💰 Couples' Expense Sharing App: 🔗 [seppan](https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan)
-I also built a **Couples' Expense Sharing App** with React Native to make cost splitting easier for couples.
+## 💰 Couples' Expense Sharing App: [seppan](https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan)
+I developed a mobile app using React Native and Expo to manage the sharing of living expenses and various other costs between partners.<br>
+Since it uses SQLite, it can be used without an internet connection.
 
+<br>
 
 ## 🛠 Tech Stack
-- **Proficient in:** JavaScript (JS), TypeScript (TS), React (Used professionally)
+- **Professional experience:** JavaScript, TypeScript, React
 - **Currently learning:** WebXR, Three.js, React Three Fiber, Next.js, React Native
+
+<br>
 
 I will continue to have fun in order to become a great person!
