@@ -27,11 +27,11 @@ Click on the GIFs to check out the project repositories.
 
 <br>
 
-## 📚 [PhraseUp](https://phrase-up-tatta-chotdogs-projects.vercel.app/)
-As part of my English learning journey, I developed a **Phrase Management App** using Next.js and Supabase.<br>
-Since I can test randomly from the selected phrases, I am able to study effectively myself.
+## 📚 [LoopLang](https://loop-lang.vercel.app/)
+As part of my English learning journey, I developed LoopLang, a language learning app built with Next.js and Supabase.<br>
+Since I can test randomly from the selected words, phrases, and grammar points, I'm able to study effectively.
 
-<a href="https://phrase-up-tatta-chotdogs-projects.vercel.app/" target="_blank">
+<a href="https://loop-lang.vercel.app/" target="_blank">
   <img src="https://github.com/user-attachments/assets/cc1ccef5-155c-43d9-befa-2b610b22c1e1" />
 </a>
 
