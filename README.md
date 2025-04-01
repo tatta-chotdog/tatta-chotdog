@@ -35,6 +35,9 @@ Since I can test randomly from the selected words, phrases, and grammar points, 
   <img src="https://github.com/user-attachments/assets/cc1ccef5-155c-43d9-befa-2b610b22c1e1" />
 </a>
 
+✅ Light mode / Dark mode toggle<br>
+✅ Web and mobile responsive design
+
 <br>
 
 ## 💰 [seppan](https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan)
