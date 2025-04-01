@@ -32,7 +32,7 @@ As part of my English learning journey, I developed LoopLang, a language learnin
 Since I can test randomly from the selected words, phrases, and grammar points, I'm able to study effectively.
 
 <a href="https://loop-lang.vercel.app/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/cc1ccef5-155c-43d9-befa-2b610b22c1e1" />
+  <img src="https://github.com/user-attachments/assets/a869a245-b194-4d19-8d74-ce4dbb660297" />
 </a>
 
 ✅ Light mode / Dark mode toggle<br>
