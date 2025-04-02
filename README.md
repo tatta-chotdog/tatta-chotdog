@@ -15,13 +15,18 @@ Click on the GIFs to check out the project repositories.
 
 <p align="center">
   <a href="https://github.com/tatta-chotdog/webxr-cube-starter" target="_blank">
-    <img src="https://github.com/user-attachments/assets/98d697ea-960f-4013-a982-7eae7392de97" width="30%" />
+    <img src="https://github.com/user-attachments/assets/98d697ea-960f-4013-a982-7eae7392de97" width="40%" />
   </a>
   <a href="https://github.com/tatta-chotdog/webxr-hands-starter" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e7d001a3-7cab-47cf-b380-64815f1c7ba5" width="30%" />
+    <img src="https://github.com/user-attachments/assets/e7d001a3-7cab-47cf-b380-64815f1c7ba5" width="40%" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/tatta-chotdog/webxr-squat" target="_blank">
-    <img src="https://github.com/user-attachments/assets/2cfe71d4-9067-4f2b-85e8-743e0c00d03f" width="30%" />
+    <img src="https://github.com/user-attachments/assets/2cfe71d4-9067-4f2b-85e8-743e0c00d03f" width="40%" />
+  </a>
+  <a href="https://github.com/tatta-chotdog/webxr-react-starter" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8ac0c2ae-f520-4ec3-aba2-045083cc6205" width="40%" />
   </a>
 </p>
 
