@@ -26,7 +26,7 @@ Click on the GIFs to check out the project repositories.
     <img src="https://github.com/user-attachments/assets/2cfe71d4-9067-4f2b-85e8-743e0c00d03f" width="40%" />
   </a>
   <a href="https://github.com/tatta-chotdog/webxr-react-starter" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8ac0c2ae-f520-4ec3-aba2-045083cc6205" width="40%" />
+    <img src="https://github.com/user-attachments/assets/4d3b6e4f-98eb-45c9-bdae-3b3fbe7525f9" width="40%" />
   </a>
 </p>
 
