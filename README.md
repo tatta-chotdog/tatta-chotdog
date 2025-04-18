@@ -14,19 +14,22 @@ WebXR is the most exciting technologies I'm currently exploring.
 Click on the GIFs to check out the project repositories.
 
 <p align="center">
-  <a href="https://github.com/tatta-chotdog/webxr-cube-starter" target="_blank">
-    <img src="https://github.com/user-attachments/assets/98d697ea-960f-4013-a982-7eae7392de97" width="40%" />
+  <a href="https://github.com/tatta-chotdog/webxr-react-debug" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e8ec9d95-e5ed-47e6-92d2-4acfd3c756c0" width="23%" />
+  </a>
+  <a href="https://github.com/tatta-chotdog/webxr-squat" target="_blank">
+    <img src="https://github.com/user-attachments/assets/bc1eb89b-4688-45f3-95a3-b28e4172a10b" width="23%" />
   </a>
   <a href="https://github.com/tatta-chotdog/webxr-hands-starter" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e7d001a3-7cab-47cf-b380-64815f1c7ba5" width="40%" />
+    <img src="https://github.com/user-attachments/assets/9dfb649a-3afd-48dc-a2b9-ba655105abf5" width="23%" />
+  </a>
+  <a href="https://github.com/tatta-chotdog/webxr-cube-starter" target="_blank">
+    <img src="https://github.com/user-attachments/assets/46730554-0dc5-4d70-bbad-f6393b0e25d6" width="23%" />
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/tatta-chotdog/webxr-squat" target="_blank">
-    <img src="https://github.com/user-attachments/assets/2cfe71d4-9067-4f2b-85e8-743e0c00d03f" width="40%" />
-  </a>
   <a href="https://github.com/tatta-chotdog/webxr-react-starter" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4d3b6e4f-98eb-45c9-bdae-3b3fbe7525f9" width="40%" />
+    <img src="https://github.com/user-attachments/assets/1332a211-9c18-4fc1-96d8-e3545b7a2679" width="50%" />
   </a>
 </p>
 
