@@ -54,6 +54,17 @@ Since it uses SQLite, it can be used without an internet connection.
 
 Read the article [here](https://qiita.com/tatta_chotdog/items/0fb70e29027fdf64fd66)
 
+<p align="center">
+  <a>
+    <img src="https://github.com/user-attachments/assets/4176dc71-ed00-4984-9b79-69b36015b3ba" width="30%" />
+  </a>
+  <a>
+    <img src="https://github.com/user-attachments/assets/d69bca34-be7e-477d-b816-b57ea5fc2084" width="30%" />
+  </a>
+  <a>
+    <img src="https://github.com/user-attachments/assets/833b4698-5e40-4053-a22f-574c0c18412f" width="30%" />
+  </a>
+</p>
 <br>
 
 ## 🛠 Tech Stack
