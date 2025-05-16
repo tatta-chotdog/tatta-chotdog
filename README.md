@@ -89,4 +89,4 @@ Read the article [here](https://qiita.com/tatta_chotdog/items/0fb70e29027fdf64fd
 
 <br>
 
-<p align="center">I will continue to have fun in order to become a great person!</p>
+<p align="center">I’ll keep having fun as I grow and learn more!</p>
