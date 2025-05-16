@@ -72,13 +72,13 @@ Read the article [here](https://qiita.com/tatta_chotdog/items/0fb70e29027fdf64fd
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan" target="_blank">
-    <img src="https://github.com/user-attachments/assets/4176dc71-ed00-4984-9b79-69b36015b3ba" width="30%" />
+    <img src="https://github.com/user-attachments/assets/4176dc71-ed00-4984-9b79-69b36015b3ba" width="33%" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan" target="_blank">
-    <img src="https://github.com/user-attachments/assets/d69bca34-be7e-477d-b816-b57ea5fc2084" width="30%" />
+    <img src="https://github.com/user-attachments/assets/d69bca34-be7e-477d-b816-b57ea5fc2084" width="33%" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan" target="_blank">
-    <img src="https://github.com/user-attachments/assets/833b4698-5e40-4053-a22f-574c0c18412f" width="30%" />
+    <img src="https://github.com/user-attachments/assets/833b4698-5e40-4053-a22f-574c0c18412f" width="33%" />
   </a>
 </p>
 <br>
