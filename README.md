@@ -48,6 +48,22 @@ Since I can test randomly from the selected words, phrases, and grammar points, 
 
 <br>
 
+## 🎮 [Pick me! Yuuki!](https://pickme-yuuki.vercel.app/)
+This app was created for a friend's birthday party.<br>
+It's a simple party game where the host comes up with a prompt, players submit their answers, and the host picks the best one.<br>
+<br>
+Thanks to the stream mode feature from playroomkit, each player can join the game using just their own smartphone.<br>
+With a lively and playful design powered by anime.js, the experience stays fun and engaging throughout.<br>
+All music and sound effects were also composed by me.<br>
+<br>
+Perfect for in-person gatherings, and just as enjoyable online via screen sharing on platforms like Discord!
+
+<a href="https://pickme-yuuki.vercel.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/597ff3d2-1670-4adf-9b6f-4e98ff706bcf" />
+</a>
+<br>
+
+
 ## 💰 [seppan](https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan)
 I developed a mobile app using React Native and Expo to manage the sharing of living expenses and various other costs between partners.<br>
 Since it uses SQLite, it can be used without an internet connection.
