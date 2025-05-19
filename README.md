@@ -61,7 +61,8 @@ Perfect for in-person gatherings, and just as enjoyable online via screen sharin
 <a href="https://pickme-yuuki.vercel.app/" target="_blank">
   <img src="https://github.com/user-attachments/assets/597ff3d2-1670-4adf-9b6f-4e98ff706bcf" />
 </a>
-<br>
+
+<br><br>
 
 
 ## 💰 [seppan](https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan)
