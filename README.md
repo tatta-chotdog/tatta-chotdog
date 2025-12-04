@@ -15,7 +15,7 @@ Click on the GIFs to check out the project repositories.
 
 <p align="center">
   <a href="https://webxr-music.vercel.app/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/2c844117-fd30-4082-a85f-76aa10864740" width="18%" />
+    <img src="https://github.com/user-attachments/assets/6cea2675-9d72-4754-87bd-c0648fd76733" width="18%" />
   </a>
   <a href="https://github.com/tatta-chotdog/webxr-react-debug" target="_blank">
     <img src="https://github.com/user-attachments/assets/e8ec9d95-e5ed-47e6-92d2-4acfd3c756c0" width="18%" />
