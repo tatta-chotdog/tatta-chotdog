@@ -40,6 +40,22 @@ Click on the GIFs to check out the project repositories.
 
 <br>
 
+## 🐯 [happy wedding yuuki!](https://happy-wedding-yuuki.vercel.app/)
+
+A quiz application developed as a commissioned project for a friend’s wedding after-party.<br>
+
+<a href="https://happy-wedding-yuuki.vercel.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/c34979af-aaf6-4a96-97ef-091241fa7981" />
+</a>
+
+✅ Built with Supabase Realtime, and it ran smoothly for a group of about 30 guests during the actual event<br>
+✅ Supports image uploads via Supabase Storage<br>
+✅ Participants can instantly join by scanning an on-screen QR code with their smartphones<br>
+✅ You can freely create your own quiz questions and answer choices<br>
+✅ I made all the music, sound effects, and 3D models<br>
+
+<br>
+
 ## 📚 [LoopLang](https://loop-lang.vercel.app/)
 As part of my English learning journey, I developed LoopLang, a language learning app built with Next.js and Supabase.<br>
 Since I can test randomly from the selected words, phrases, and grammar points, I'm able to study effectively.
