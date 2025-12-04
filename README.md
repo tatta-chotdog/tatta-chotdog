@@ -83,7 +83,6 @@ Perfect for in-person gatherings, and just as enjoyable online via screen sharin
 
 <br><br>
 
-
 ## 💰 [seppan](https://play.google.com/store/apps/details?id=com.tatta_chotdog.seppan)
 I developed a mobile app using React Native and Expo to manage the sharing of living expenses and various other costs between partners.<br>
 Since it uses SQLite, it can be used without an internet connection.
@@ -106,6 +105,22 @@ Read the article [here](https://qiita.com/tatta_chotdog/items/0fb70e29027fdf64fd
 ## 🛠 Tech Stack
 - **Professional experience:** JavaScript, TypeScript, React
 - **Currently learning:** WebXR, Three.js, React Three Fiber, Next.js, React Native
+
+<br>
+
+## 🎨 [3D Modeling](https://beta.womp.com/profile/4c0c8ddd-a42f-4cab-8327-8f339fbea788)
+
+<p align="center">
+  <a href="https://beta.womp.com/profile/4c0c8ddd-a42f-4cab-8327-8f339fbea788?preview=lict1616f3pour06" target="_blank">
+    <img src="https://github.com/user-attachments/assets/18ea965a-c40c-43f4-9362-6162801ac2ed" width="33%" />
+  </a>
+  <a href="https://beta.womp.com/profile/4c0c8ddd-a42f-4cab-8327-8f339fbea788?preview=ldgq1u410yx1kd16" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1e0c526a-af9e-48c3-9db1-7b73c01819c8" width="33%" />
+  </a>
+  <a href="https://beta.womp.com/profile/4c0c8ddd-a42f-4cab-8327-8f339fbea788?preview=live62hlq144fe6v" target="_blank">
+    <img src="https://github.com/user-attachments/assets/da6c640a-2025-415d-a0d6-e6d3d3c17836" width="33%" />
+  </a>
+</p>
 
 <br>
 
