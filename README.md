@@ -38,6 +38,14 @@ Click on the GIFs to check out the project repositories.
 
 <br>
 
+## 📻 [my music collection](https://my-music-collection.vercel.app/)
+
+<a href="https://my-music-collection.vercel.app/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/83123807-faa8-47c8-82bf-fef355b4689b" />
+</a>
+
+<br>
+
 ## 🐯 [happy wedding yuuki!](https://happy-wedding-yuuki.vercel.app/)
 
 A quiz application developed as a commissioned project for a friend’s wedding after-party.<br>
