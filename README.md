@@ -51,6 +51,8 @@ An AR music player app developed using React Three Fiber and WebXR. <br>
 ✅ Interactive 3D gimmicks: tap to make it hop or trigger falling musical notes from the antenna<br>
 ✅ I created all the 3D models, music, and sound effects myself<br>
 
+Read the article [here](https://zenn.dev/tatta_chotdog/articles/2bb2f843bced9f)
+
 <br>
 
 ## 🐯 [happy wedding yuuki!](https://happy-wedding-yuuki.vercel.app/)
