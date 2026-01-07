@@ -41,7 +41,7 @@ Click on the GIFs to check out the project repositories.
 ## 📻 [my music collection](https://my-music-collection.vercel.app/)
 
 <a href="https://my-music-collection.vercel.app/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/83123807-faa8-47c8-82bf-fef355b4689b" />
+  <img src="https://github.com/user-attachments/assets/2a056668-e9de-4401-a0f2-95464ac20d41" />
 </a>
 
 <br>
