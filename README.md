@@ -45,7 +45,7 @@ An AR music player app developed using React Three Fiber and WebXR. <br>
   <img src="https://github.com/user-attachments/assets/2a056668-e9de-4401-a0f2-95464ac20d41" />
 </a>
 
-✅ All cute animations are implemented using only React Three Fiber and shaders<br>
+✅ All animations are implemented using only React Three Fiber and shaders<br>
 ✅ Supports WebXR for AR/VR experiences on Android and Meta Quest 3<br>
 ✅ Supports AR experiences on iOS devices via Variant Launch<br>
 ✅ I created all the 3D models, music, and sound effects myself<br>
