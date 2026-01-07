@@ -45,10 +45,9 @@ An AR music player app developed using React Three Fiber and WebXR. <br>
   <img src="https://github.com/user-attachments/assets/2a056668-e9de-4401-a0f2-95464ac20d41" />
 </a>
 
-✅ Immersive experience where the boombox dances (sways, jumps, squashes) in sync with the track's BPM<br>
+✅ All cute animations are implemented using only React Three Fiber and shaders<br>
 ✅ Supports WebXR for AR/VR experiences on Android and Meta Quest 3<br>
 ✅ Supports AR experiences on iOS devices via Variant Launch<br>
-✅ Interactive 3D gimmicks: tap to make it hop or trigger falling musical notes from the antenna<br>
 ✅ I created all the 3D models, music, and sound effects myself<br>
 
 Read the article [here](https://zenn.dev/tatta_chotdog/articles/2bb2f843bced9f)
