@@ -14,7 +14,7 @@ WebXR is the most exciting technologies I'm currently exploring.
 Click on the GIFs to check out the project repositories.
 
 <p align="center">
-  <a href="https://webxr-music.vercel.app/" target="_blank">
+  <a href="https://zenn.dev/tatta_chotdog/articles/559f6e283cf805" target="_blank">
     <img src="https://github.com/user-attachments/assets/6cea2675-9d72-4754-87bd-c0648fd76733" width="18%" />
   </a>
   <a href="https://github.com/tatta-chotdog/webxr-react-debug" target="_blank">
