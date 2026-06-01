@@ -2,7 +2,7 @@
 <p align="center">Please call me Tatta!</p>
 
 <h3 align="center">
-  I'm a Experience Designer & Creator.<br>
+  I'm a Experience Creator.<br>
   I've always jumped into things that exhilarate me.<br>
   Here’s a bit about the personal projects I’m working on!
 </h3>
